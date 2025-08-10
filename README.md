@@ -13,15 +13,16 @@ A conversational assistant for **Tailor Khay** that:
 
 ### 2. Name Generator
 **File:** `generate_namess.py`  
-A Streamlit app where you enter your religion or nationality and gender to get 10 name suggestions instantly.
+A Streamlit website where you enter your religion or nationality and gender to get 10 name suggestions instantly.
 
 ### 3. Girlfriend's Day Greetings
 **File:** `girlfriends_day_greetings_with_gradio.ipynb`  
-A Gradio app that generates a **customized Girlfriend’s Day greeting**. Friends can open the link, type their name, and get a personalized message.
+A Gradio website that generates a **customized Girlfriend’s Day greeting**. Friends can open the link, type their name, and get a personalized message.
 
 ### 4. Scholarship Info Extractor
 **File:** `scholarship_info_extractor.ipynb`  
 Given a school’s website link, this tool visits the site and extracts scholarship-related information automatically.
+
 
 
 
